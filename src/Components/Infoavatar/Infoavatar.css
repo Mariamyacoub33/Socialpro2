@@ -49,6 +49,10 @@ font-size: 20px;
         } 
 
         @media only screen and (max-width: 450px) {
+#Infoava{
+    padding-top: 0px;
+}
+
             #Infoava img{
                 width: 80px;
                 height: 80px;
